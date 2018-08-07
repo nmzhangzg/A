@@ -98,8 +98,8 @@
 		108970E721198D2200A2827E /* Targets */ = {
 			isa = PBXGroup;
 			children = (
-				108970E821198D4500A2827E /* Target_A.m */,
 				108970EA21198D5000A2827E /* Target_A.h */,
+				108970E821198D4500A2827E /* Target_A.m */,
 			);
 			path = Targets;
 			sourceTree = "<group>";
